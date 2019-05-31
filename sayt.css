@@ -1,0 +1,44 @@
+body {background-image: url(https://img2.akspic.ru/image/39197-dnevnoe_vremya-anime_priroda-spokojnyj-nebo-spokojstvie-1920x1080.jpg); }
+header{text-align: center;
+    font-family: Monotype corsiva;
+    font-weight: 90;
+    font-size:50px;
+    color: white;
+    text-shadow: 2px 2px 3px black;}
+nav li a{
+    text-decoration:none;
+    font-family: fantasy;
+font-size:25px;}
+nav li a{
+    text-decoration:none;
+    font-family: fantasy;}
+nav li {
+    list-style: none;
+    display: inline;
+    float: left;
+    padding: 10px;
+    margin-right: 195px;
+margin-left: 120px;}
+h2{text-align: center;}
+main article{
+    background-color: white;
+    width: 60%;
+    padding: 10px;
+    float: left;
+    height: 420px;
+margin-left: 180px}
+main aside {
+    background-color:aliceblue;
+    float: left;
+    width: 10%;
+    padding: 10px; 
+    height: 420px;
+    margin-left: 50px;}
+p{font-size:30px;}
+h2{font-size:30px;}
+aside li a{font-size:25;}
+
+
+
+   
+  
